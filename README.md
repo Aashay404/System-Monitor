@@ -19,9 +19,9 @@ Smooth Graph of Real-Time CPU Usage
 
 ## Monitoring System Processes 
 
-Display of Top Running Processes 
+Display of Top Running Processes and
 
-CPU & Memory Usage of Processes 
+CPU & Memory Usage of Processes and
 
 Process Identification Number (PID) 
 
