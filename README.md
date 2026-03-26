@@ -21,7 +21,7 @@ Smooth Graph of Real-Time CPU Usage
 
 Display of Top Running Processes and
 
-CPU & Memory Usage of Processes and
+CPU & Memory Usage of Processes
 
 Process Identification Number (PID) 
 
