@@ -86,7 +86,7 @@ The front-end will communicate with the back-end API in order to retrieve machin
 
  Running Locally
 
-1️) Clone the repository
+1️) Clone the repository with
 git clone https://github.com/aashay404/System-Monitor.git
 
 2️) Install the dependencies by navigating to each folder and installing the node modules
