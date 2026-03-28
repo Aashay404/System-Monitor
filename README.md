@@ -13,7 +13,7 @@ Real-time measurement of RAM usage
 
 If applicable; Measurement of System Temperature 
 
-Display of System Uptime 
+Display of System Uptime and
 
 Smooth Graph of Real-Time CPU Usage 
 
