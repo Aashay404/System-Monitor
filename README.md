@@ -7,7 +7,7 @@ This project attempts to mimic a simplified task manager-like application to pro
 # Functional Characteristics
 ## General Information on Your System:
 
-Real-time measurement of CPU usage 
+Real-time measurement of CPU usage and
 
 Real-time measurement of RAM usage 
 
